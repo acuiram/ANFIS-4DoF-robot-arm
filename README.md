@@ -7,3 +7,6 @@ For the 4DoF case, there will be 4 ANFIS networks, one for each theta parameter(
 - The second ANFIS network will be trained with X and Y coordinates as input and corresponding theta2 values as output. The matrix data2 contains the x-y-theta2 dataset(data2 will be used as the train)
 - The third ANFIS network will be trained with X and Y coordinates as input and corresponding theta3 values as output. The matrix data3 contains the x-y-theta3 dataset(data3 will be used as the train)
 - The fourth ANFIS network will be trained with X and Y coordinates as input and corresponding theta4 values as output. The matrix data4 contains the x-y-theta4 dataset(data4 will be used as the train)
+
+<br>The resulting robot working space:
+<br>![ANFIS_NAO_4DOF](https://user-images.githubusercontent.com/106117736/209584470-18234aa8-0017-4576-a2c7-bd1deff756ba.jpg)
