@@ -13,6 +13,10 @@ For the 4DoF case, there will be 4 ANFIS networks, one for each theta parameter(
 | ---      | ---       | ---      | ---       |
 | -2pi:2pi     | 0:pi/2    | -pi/4:pi/4 | -pi/2:pi/2 |
 
+| l1     | l2 | l3 | l4 |
+| ---      | ---       | ---      | ---       |
+| 105 cm     | 55.95 cm    | 69.07 cm | 14.36 cm |
+
 
 <br>The resulting robot working space for the validation set:
 <br>![ANFIS_NAO_4DOF](https://user-images.githubusercontent.com/106117736/209584470-18234aa8-0017-4576-a2c7-bd1deff756ba.jpg)
