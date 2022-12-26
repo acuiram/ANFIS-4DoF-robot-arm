@@ -10,6 +10,7 @@ For the 4DoF case, there will be 4 ANFIS networks, one for each theta parameter(
 
 <br>Angles and leghts:
 | theta1     | theta2 | theta3 | theta4 |
+| ---      | ---       | ---      | ---       |
 | -2pi:2pi     | 0:pi/2    | -pi/4:pi/4 | -pi/2:pi/2 |
 
 
